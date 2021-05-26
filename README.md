@@ -10,7 +10,6 @@ ConsultasSQL - Trying to learn Sql
 - [x] MONTH
 - [x] ORDER BY
 
-<<<<<<< HEAD
+
 ![](img/mer.png)
-=======
->>>>>>> d7e3f680cc900875a32d6210a6846faac6243b3e
+
