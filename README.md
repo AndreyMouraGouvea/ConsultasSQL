@@ -10,4 +10,4 @@ ConsultasSQL - Trying to learn Sql
 - [x] MONTH
 - [x] ORDER BY
 
-![](mer.png)
+![](img/mer.png)
