@@ -9,3 +9,5 @@ ConsultasSQL - Trying to learn Sql
 - [x] ROUND(AVG)
 - [x] MONTH
 - [x] ORDER BY
+
+![](mer.png)
